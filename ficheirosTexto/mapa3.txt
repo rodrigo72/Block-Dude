@@ -1,0 +1,13 @@
+6 6 Este True
+Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco
+Bloco Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Vazio Vazio Bloco Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Vazio Vazio Bloco Caixa Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Porta Vazio Bloco Caixa Caixa Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Bloco Vazio Bloco Bloco Bloco Bloco Vazio Bloco Vazio Vazio Vazio Vazio Vazio Caixa Bloco
+Bloco Bloco Vazio Bloco Bloco Bloco Bloco Vazio Bloco Vazio Vazio Vazio Vazio Caixa Caixa Bloco
+Bloco Bloco Vazio Bloco Bloco Bloco Bloco Vazio Bloco Bloco Vazio Vazio Caixa Caixa Caixa Bloco
+Bloco Bloco Bloco Bloco Bloco Bloco Bloco Vazio Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco
+Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco

@@ -1,0 +1,13 @@
+12 5 Oeste False
+Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco
+Bloco Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Porta Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Bloco Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Bloco Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco Vazio Vazio Vazio Caixa Bloco
+Bloco Bloco Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco Caixa Vazio Caixa Caixa Bloco
+Bloco Bloco Bloco Bloco Bloco Vazio Vazio Vazio Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco
+Bloco Vazio Vazio Vazio Bloco Vazio Vazio Caixa Bloco Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Vazio Vazio Vazio Bloco Bloco Bloco Bloco Bloco Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Vazio Bloco
+Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco Bloco
